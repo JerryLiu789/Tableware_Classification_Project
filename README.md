@@ -51,5 +51,14 @@
 ---
 
 ##  成果展示
+![偵測結果](finished_test_images/1.jpg)
+![偵測結果](finished_test_images/2.jpg)
+![偵測結果](finished_test_images/3.jpg)
+![偵測結果](finished_test_images/4.jpg)
+![偵測結果](finished_test_images/5.jpg)
+![偵測結果](finished_test_images/6.jpg)
+![偵測結果](finished_test_images/7.jpg)
+![偵測結果](finished_test_images/8.jpg)
+
 
 
